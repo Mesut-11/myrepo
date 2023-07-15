@@ -1,1 +1,1 @@
-here we we write some text for demonstration purposes and we continue to modify this text file to see what will happen
+here we we write some text for demonstration purposes and we continue to modify this text file to see what will happen now we have used git fetch to fetch and git merge origin/master to get the updated file am going to use git pull to get the updated version of this file
